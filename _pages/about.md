@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## Short Bio
-I am now a 2nd year master student at Institute of Computing Technology, Chinese Academy of Sciences under the supervision of Prof. Yinhe Han and Associate Prof. [Xiaoming Chen](http://people.ucas.edu.cn/~chenxm). I gruaduated from School of Electronics Engineering and Computer Science, Peking University in 2019.  
+I am currently a 2nd year master student at Institute of Computing Technology, Chinese Academy of Sciences under the supervision of Prof. Yinhe Han and Associate Prof. [Xiaoming Chen](http://people.ucas.edu.cn/~chenxm). 
+I gruaduated from School of Electronics Engineering and Computer Science, Peking University in 2019.  
 
 ## Research Interests
 Computer Architecture, Processing-in-Memory, Domain-specific Hardware Acceleration. 
