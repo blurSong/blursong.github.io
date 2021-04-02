@@ -21,7 +21,7 @@ Computer Architecture, Processing-in-Memory, Domain-specific Hardware Accelerati
 
 ## Honors and Awards
 - President’s Scholarship, Institute of Computing Technology, 2021
-- Outstanding Project, 2020 Xilinx OpenHW, 2020 [[Github]](https://github.com/CICS-ICT/ik-acceleration)
+- Outstanding Project, Xilinx OpenHW, 2020 [[Github]](https://github.com/CICS-ICT/ik-acceleration)
 - Merit Student, University of Chinese Academy of Sciences, 2020
 - Gold Medal (No.4), the 22nd National Biology Olympiad, 2013
 
