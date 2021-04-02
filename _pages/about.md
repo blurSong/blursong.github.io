@@ -29,12 +29,10 @@ Computer Architecture, Processing-in-Memory, Domain-specific Hardware Accelerati
 - Vice Chairman, Graduate Student Union of ICT, CAS, 2020
 - Minister, CYL Committee of EECS, PKU, 2017 
 
-## Beyond
+## Apendices 
 Click [<b>here</b>](https://www.bilibili.com/video/BV1Db411c7wQ) to visit my original Chinese cross talk (相声).
 
 Click [<b>here</b>](https://ent.163.com/16/0616/20/BPN8TNO800314V8J.html) and [<b>here</b>](https://www.chuapp.com/?c=Article&a=index&id=284028) to read my publications about video games.
 
 Click [<b>here</b>](https://www.youtube.com/watch?v=nx_GVAHk51Y) to touch the charm of virtual singer RIM @ Kamitsubaki.
-
-
 
