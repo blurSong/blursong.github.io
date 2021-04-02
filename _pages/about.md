@@ -28,3 +28,9 @@ Computer Architecture, Processing-in-Memory, Domain-specific Hardware Accelerati
 ## Committees
 - Minister, CYL Committee of EECS, PKU, 2017
 - Vice Chairman, Graduate Student Union of ICT, CAS, 2020
+
+## Beyond
+Click [here](https://www.bilibili.com/video/BV1Db411c7wQ) to visit my original chinese talk show (相声）.
+
+Click [here](https://www.youtube.com/watch?v=Bu9HChtAlCY) to tough the charm of Rime @ Kamitsubaki.
+
