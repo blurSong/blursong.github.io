@@ -30,7 +30,7 @@ Computer Architecture, Processing-in-Memory, Domain-specific Hardware Accelerati
 - Vice Chairman, Graduate Student Union of ICT, CAS, 2020
 
 ## Beyond
-Click [here](https://www.bilibili.com/video/BV1Db411c7wQ) to visit my original chinese talk show (相声）.
+Click [here](https://www.bilibili.com/video/BV1Db411c7wQ) to visit my original chinese talk show (相声).
 
 Click [here](https://ent.163.com/16/0616/20/BPN8TNO800314V8J.html) and [here](https://www.chuapp.com/?c=Article&a=index&id=284028) to read my publications about video games.
 
