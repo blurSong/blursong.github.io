@@ -2,7 +2,7 @@
 permalink: /
 title: "We didn't start the fire."
 excerpt: "About me"
-author_profile: false
+author_profile: true 
 redirect_from: 
   - /about/
   - /about.html
