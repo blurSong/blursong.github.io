@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "We Didn't Start the Fire."
+title: "We didn't start the fire."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
