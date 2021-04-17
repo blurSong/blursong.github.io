@@ -17,9 +17,9 @@ I am currently a 2nd year master student at Institute of Computing Technology, C
 Computer Architecture, Processing-in-Memory, Domain-specific Hardware Acceleration
 
 ## Publications
-[C1]<b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System", to appear in 2021 Design Automation Conference. <b>DAC'21, CCF-A</b>.
+[C1]<b>Tao Song</b>, Xiaoming Chen, Yinhe Han, BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System, to appear in 2021 Design Automation Conference. <b>DAC'21, CCF-A</b>.
 
-[C2]<b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "Eliminating Iterations of Iterative Methods: Solving Large-Scale Sparse Linear System in 𝑂(1) with RRAM-based In-Memory Accelerator", to appear in 2021 Great Lakes Symposium on VLSI. <b>GLSVLSI'21, CCF-C</b>.
+[C2]<b>Tao Song</b>, Xiaoming Chen, Yinhe Han, Eliminating Iterations of Iterative Methods: Solving Large-Scale Sparse Linear System in 𝑂(1) with RRAM-based In-Memory Accelerator, to appear in 2021 ACM Great Lakes Symposium on VLSI. <b>GLSVLSI'21, CCF-C</b>.
 
 ## Honors and Awards
 - President’s Scholarship, Institute of Computing Technology, 2021
