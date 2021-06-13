@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<b>On another planet, anything could happen.</b>
+<b>無意味な旅を続けよ. King Gnu</b>
 
 ## <font color="#8c0000">Short Bio</font>
 I am currently a 2nd year master student at Institute of Computing Technology, Chinese Academy of Sciences under the supervision of Prof. Yinhe Han and Associate Prof. [Xiaoming Chen](http://people.ucas.edu.cn/~chenxm). I received my bachelor's degree from School of Electronics Engineering and Computer Science, Peking University in 2019.  
