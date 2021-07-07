@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<b>ON ANOTHER PLANET, ANY THING COULD HAPPEN.</b>
+<b>ON ANOTHER PLANET, ANYTHING COULD HAPPEN.</b>
 
 ## <font color="#8c0000">Short Bio</font>
 I am currently a 2nd year master student at Institute of Computing Technology, Chinese Academy of Sciences under the supervision of Prof. Yinhe Han and Associate Prof. [Xiaoming Chen](http://people.ucas.edu.cn/~chenxm). I received my bachelor's degree from School of Electronics Engineering and Computer Science, Peking University in 2019.  
@@ -36,5 +36,5 @@ Click [<b>here</b>](https://www.bilibili.com/video/BV1Db411c7wQ) to visit my ori
 
 Click [<b>here</b>](https://ent.163.com/16/0616/20/BPN8TNO800314V8J.html) and [<b>here</b>](https://www.chuapp.com/?c=Article&a=index&id=284028) to read my publications about video games.
 
-Click [<b>here</b>](https://www.youtube.com/watch?v=e0ZfB1o-Msw) to synchronize with an ethereal melody from Isekaijoucho @ Kamitsubaki.
+Click [<b>here</b>](https://www.youtube.com/watch?v=Po8ouRPBLlo) to synchronize with an ethereal melody from Isekaijoucho @ Kamitsubaki.
 
