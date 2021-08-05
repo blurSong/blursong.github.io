@@ -17,9 +17,9 @@ I am currently a 2nd year master student at Institute of Computing Technology, C
 Computer Architecture, Processing-in-Memory, Domain-Specific Hardware Acceleration
 
 ## <font color="#8c0000">Publications</font>
-[C1]<b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System", to appear in 2021 Design Automation Conference. <b>DAC, CCF-A</b>.
+[C1] <b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System", to appear in 2021 Design Automation Conference. <b>DAC, CCF-A</b>.
 
-[C2]<b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "Eliminating Iterations of Iterative Methods: Solving Large-Scale Sparse Linear System in 𝑂(1) with RRAM-based In-Memory Accelerator", to appear in 2021 ACM Great Lakes Symposium on VLSI. <b>GLSVLSI, CCF-C</b>.
+[[C2]](https://dl.acm.org/doi/abs/10.1145/3453688.3461510) <b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "Eliminating Iterations of Iterative Methods: Solving Large-Scale Sparse Linear System in 𝑂(1) with RRAM-based In-Memory Accelerator", in 2021 ACM Great Lakes Symposium on VLSI. <b>GLSVLSI, CCF-C</b>.
 
 ## <font color="#8c0000">Honors and Awards</font>
 - President’s Scholarship, Institute of Computing Technology, 2021
@@ -36,5 +36,5 @@ Click [<b>here</b>](https://www.bilibili.com/video/BV1Db411c7wQ) to visit my ori
 
 Click [<b>here</b>](https://ent.163.com/16/0616/20/BPN8TNO800314V8J.html) and [<b>here</b>](https://www.chuapp.com/?c=Article&a=index&id=284028) to read my publications about video games.
 
-Click [<b>here</b>](https://www.youtube.com/watch?v=Po8ouRPBLlo) to synchronize with my top-rated vsinger Isekaijoucho @ Kamitsubaki.
+Click [<b>here</b>](https://www.youtube.com/watch?v=Po8ouRPBLlo) to synchronize with virtual singer Isekaijoucho @ Kamitsubaki.
 
