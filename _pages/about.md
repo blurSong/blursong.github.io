@@ -25,7 +25,7 @@ Computer Architecture, Processing-in-Memory, Domain-Specific Hardware Accelerati
 - President’s Scholarship, Institute of Computing Technology, 2021
 - Outstanding Project, Xilinx OpenHW, 2020 [[Github]](https://github.com/CICS-ICT/ik-acceleration)
 - Merit Student, University of Chinese Academy of Sciences, 2020
-- Gold Medal (No.4), the 22nd National Biology Olympiad, 2013
+- Gold Medal (No.4), the 22nd National Biology Olympiad, 2013 [[CZS]](http://czs.ioz.cas.cn/swxjs/tz/201312/t20131218_147354.html)
 
 ## <font color="#8c0000">Committees</font>
 - Vice Chairman, Graduate Student Union of ICT, CAS, 2020
