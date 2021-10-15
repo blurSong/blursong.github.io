@@ -21,6 +21,8 @@ Computer Architecture, Processing-in-Memory, Domain-Specific Hardware Accelerati
 
 [[C2]](https://dl.acm.org/doi/abs/10.1145/3453688.3461510) <b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "Eliminating Iterations of Iterative Methods: Solving Large-Scale Sparse Linear System in 𝑂(1) with RRAM-based In-Memory Accelerator", in 2021 ACM Great Lakes Symposium on VLSI. <b>GLSVLSI, CCF-C</b>.
 
+[[C3]] Xiaoming Chen, <b>Tao Song</b>, Yinhe Han, "RRAM‑based Analog In‑Memory Computing", to appear in NANOARCH 2021 (Special Session).
+
 ## <font color="#8c0000">Honors and Awards</font>
 - President’s Scholarship, Institute of Computing Technology, 2021
 - Outstanding Project, Xilinx OpenHW, 2020 [[Github]](https://github.com/CICS-ICT/ik-acceleration)
