@@ -19,7 +19,7 @@ I will join the Compute Arch team @ NVIDIA as a GPU architect after graduate.
 Computer Architecture, Processing-in-Memory, Domain-Specific Hardware Acceleration
 
 ## <font color="#8c0000">Publications</font>
-[C1] <b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System", to appear in 2021 Design Automation Conference. <b>DAC, CCF-A</b>.
+[[C1]](https://ieeexplore.ieee.org/abstract/document/9586247) <b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System", to appear in 2021 Design Automation Conference. <b>DAC, CCF-A</b>.
 
 [[C2]](https://dl.acm.org/doi/abs/10.1145/3453688.3461510) <b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "Eliminating Iterations of Iterative Methods: Solving Large-Scale Sparse Linear System in 𝑂(1) with RRAM-based In-Memory Accelerator", in 2021 ACM Great Lakes Symposium on VLSI. <b>GLSVLSI, CCF-C</b>.
 
