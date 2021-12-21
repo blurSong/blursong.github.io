@@ -23,7 +23,9 @@ Computer Architecture, Processing-in-Memory, Domain-Specific Hardware Accelerati
 
 [[C2]](https://dl.acm.org/doi/abs/10.1145/3453688.3461510) <b>Tao Song</b>, Xiaoming Chen, Yinhe Han, "Eliminating Iterations of Iterative Methods: Solving Large-Scale Sparse Linear System in 𝑂(1) with RRAM-based In-Memory Accelerator", in 2021 ACM Great Lakes Symposium on VLSI. <b>GLSVLSI, CCF-C</b>.
 
-[C3] Xiaoming Chen, <b>Tao Song</b>, Yinhe Han, "RRAM‑based Analog In‑Memory Computing", in NANOARCH 2021 (Special Session).
+[[C3]](https://ieeexplore.ieee.org/abstract/document/9642235) Xiaoming Chen, <b>Tao Song</b>, Yinhe Han, "RRAM‑based Analog In‑Memory Computing", in NANOARCH 2021 (Special Session).
+
+[J1] Xiaoyu Zhang, Rui Liu, Tao Song, Yuxin Yang,  Xiaoming Chen, "Re-FeMAT: A Reconfigurable Multifunctional FeFET-based Memory Architecture", in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. <b>TCAD, CCF-A</b>.
 
 ## <font color="#8c0000">Honors and Awards</font>
 - National Scholarship, 2021
