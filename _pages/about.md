@@ -25,7 +25,7 @@ Computer Architecture, Processing-in-Memory, Domain-Specific Hardware Accelerati
 
 [[C3]](https://ieeexplore.ieee.org/abstract/document/9642235) Xiaoming Chen, <b>Tao Song</b>, Yinhe Han, "RRAM‑based Analog In‑Memory Computing", in NANOARCH 2021 (Special Session).
 
-[J1] Xiaoyu Zhang, Rui Liu, Tao Song, Yuxin Yang,  Xiaoming Chen, "Re-FeMAT: A Reconfigurable Multifunctional FeFET-based Memory Architecture", in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. <b>TCAD, CCF-A</b>.
+[J1] Xiaoyu Zhang, Rui Liu, <b>Tao Song</b>, Yuxin Yang, Xiaoming Chen, "Re-FeMAT: A Reconfigurable Multifunctional FeFET-based Memory Architecture", in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. <b>TCAD, CCF-A</b>.
 
 ## <font color="#8c0000">Honors and Awards</font>
 - National Scholarship, 2021
