@@ -13,8 +13,6 @@ redirect_from:
 ## <font color="#8c0000">Short Bio</font>
 I am currently a 3rd year master student at Institute of Computing Technology, Chinese Academy of Sciences under the supervision of Prof. Yinhe Han and Associate Prof. [Xiaoming Chen](http://people.ucas.edu.cn/~chenxm). I received my bachelor's degree from School of Electronics Engineering and Computer Science, Peking University in 2019.  
 
-https://s.trojanflare.com/clashx/156c4cac-ab08-44b2-89dc-5758323deff5
-
 I will join the Compute Arch team @ NVIDIA as an architect after graduate. 
 
 ## <font color="#8c0000">Research Interests</font>
